@@ -23,6 +23,6 @@ A sleek and modern sign-up page built using **HTML** and **CSS**, featuring a re
 - 🌐 Language selector for accessibility  
 
 
-#📷 Preview
+# 📷 Preview
 
 <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/b045dd46-215f-4673-8842-4572d737df27" />
