@@ -12,3 +12,11 @@ Welcome to Day 1 of your web development journey! This simple yet comprehensive 
 - 🎨 CSS Integration: Connect an external stylesheet with link to customize design.
 - 📁 Semantic HTML Tags: Use header, section, footer, and div for clean layout and structure.
 This hands-on example sets the tone for learning how HTML works in a real-world scenario and encourages experimentation from the very start.
+
+#Output
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/4a7c1fa2-643b-424d-babe-eaed063c4fee" />
+
+--
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/e7f49e48-4187-4a12-8601-f7b348d85886" />
